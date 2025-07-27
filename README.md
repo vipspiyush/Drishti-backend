@@ -3,7 +3,7 @@
 ## Setup Instructions
 
 1. Clone the repo:
-   git clone https://github.com/your-org/drishti-backend-full.git
+   git clone https://github.com/your-org/drishti-backend-full.git](https://github.com/vipspiyush/Drishti-backend.git
 
 2. Install dependencies:
    npm install
